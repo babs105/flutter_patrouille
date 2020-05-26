@@ -1,5 +1,5 @@
 # flutter_patrouille
 
-Gestion des patrouille 
+Gestion des patrouilles
 et
-Evenements dans tracé autoroute à péage ila Touba
+Evenements panne et accident sur le tracé autoroute à péage ila Touba
